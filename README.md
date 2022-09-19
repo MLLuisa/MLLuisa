@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Junior Front End Developer
+### Hi there 👋 i'm a Junior Front End Developer
 Hi, i'm Maria Luisa Lufrano, 
 
 - 🌱 I’m currently learning ...
