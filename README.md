@@ -2,7 +2,7 @@
 Hi, i'm Maria Luisa Lufrano, 
 
 - 🌱 I’m currently learning TypeScript and Angular
-- 🔭 I'm currently looking for a job ad Junior Frontend Developer
+- 🔭 I'm a frontend developer at Cineca
 - 👯 I’m looking to collaborate on new proyects as a Junior
 - 💬 Ask me about web development (HTML, CSS, Javascript and React)
 - 📫 How to reach me: https://www.linkedin.com/in/marialuisalufrano/
