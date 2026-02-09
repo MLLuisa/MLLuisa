@@ -4,7 +4,7 @@ Hi, i'm Maria Luisa Lufrano,
 - 🌱 I’m currently learning TypeScript and Angular
 - 🔭 I'm a frontend developer at Cineca
 - 👯 I’m looking to collaborate on new proyects as a Junior
-- 💬 Ask me about web development (HTML, CSS, Javascript and React)
+- 💬 Ask me about web development (HTML, CSS, Javascript, Angular and React)
 - 📫 How to reach me: https://www.linkedin.com/in/marialuisalufrano/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: i'm also a Basketaball coach
